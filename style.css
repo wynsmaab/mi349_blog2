@@ -1,0 +1,78 @@
+html {
+    background: antiquewhite;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #000;
+    border-top: 10px solid #000;
+    background: #fff;
+}
+
+form {
+    height: 50px;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3cm;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+line-height: 1.4cm;
+}
+
+img {
+ display: block;
+ margin: 0 auto;
+}
+
+h2 {
+    font-size: 2cm;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+line-height: 1.4cm;
+}
+
+h4 {
+    font-size: medium;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+line-height: 1cm;
+}
+
+th {
+    height: 50px;
+    text-align: center;
+}
+
+td {
+    height: 50px;
+    text-align: center;
+  }
+  
+ul {
+    font-size: .5cm;
+    height: 50 px;
+    text-align: center;
+    list-style-type: none;
+}
+
+#blog {
+    border-top: 1px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 1px dotted #ccc;
+}
